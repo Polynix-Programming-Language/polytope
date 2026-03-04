@@ -1,2 +1,2 @@
 # polytope
-The package manager for Polynix 
+The package and language manager for Polynix 
